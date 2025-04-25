@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background-color: white
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  background-color: green;
+}
+
+input, select {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 200px;
+}
+
+div {
+  margin: 10px 0;
+  line-height: 50px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
